@@ -25,7 +25,7 @@ Skills: HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=avmonirul)  
 
-![GitHub metrics](https://metrics.lecoq.io/avmonirul)  
+)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=avmonirul)  
 
