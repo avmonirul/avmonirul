@@ -25,9 +25,9 @@ Skills: HTML / CSS
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/avmonirul)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=avmonirul)  
+
+  
 
 ![Profile views](https://gpvc.arturio.dev/avmonirul)  
 
