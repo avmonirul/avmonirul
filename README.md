@@ -1,7 +1,7 @@
 <h1 align="center">Hallo I'm MONIRUL</h1>
 <h3 align="center">I am from Natore</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect-</h3>
 <p align="left">
 <a href="https://twitter.com/avmonirul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avmonirul" height="30" width="40" /></a>
 <a href="https://fb.com/monirulcv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="monirulcv" height="30" width="40" /></a>
