@@ -1,3 +1,12 @@
+- 🔭 I’m currently working on programming-hero 
+- ⚡ Fun fact: ✌ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avmonirul)  
+
+![Profile views](https://gpvc.arturio.dev/avmonirul)  
+
+
 <h1 align="center">Hallo I'm MONIRUL</h1>
 <h3 align="center">I am from Natore</h3>
 
