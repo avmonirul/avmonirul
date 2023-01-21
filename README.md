@@ -2,7 +2,6 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='' height='40'>](https://github.com/avmonirul)  
 
  
 
