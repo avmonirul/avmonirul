@@ -1,8 +1,8 @@
-✔I’m currently working on programming-hero 
-✔Fun fact: ✌ 
+✔I’m currently working on programming-hero
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avmonirul)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='' height='40'>](https://github.com/avmonirul)  
 
  
 
