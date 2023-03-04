@@ -1,5 +1,5 @@
 <h2>I'm MONIRUL</h2>
-<h2>from NATORE</h2>
+
 <h3 align="center">🔭 I’m currently working on programming-hero</h3>
 
 <h3 align="left">Connect with me:</h3>
